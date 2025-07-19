@@ -74,7 +74,7 @@ void	ft_putnbr_base(int	nbr, char	*base)
 
 int	main()
 {
-	char	c[] = "12345";
+	char	c[] = "12345678";
 	int	number = 42;
 	ft_putnbr_base(number, c);
 }
