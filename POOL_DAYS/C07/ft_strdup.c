@@ -11,5 +11,5 @@ char	*ft_strdup(char *src)
     len = 0;
     while (src[len])
         len++;
-    
+    char *copy(malloc)
 }
